@@ -2,7 +2,7 @@
 A prototype to test "Limit Ad Tracking" (iOS 13 and below) and "App Tracking Transparency" (iOS 14 and above) frameworks impact to Identifier for Advertising (IDFA) and Identifier for Vendor (IDFV).
 
 ## About
-- Minimum target set to iOS 13.5 (Most stable iOS 13.x version)
+- Minimum target set to iOS 13.5 (One of the stable iOS 13.x versions)
 - Built using Xcode 12 Beta 3
 - Tested on iPhone X (iOS 14.0 Beta 3) and iPhone 8 (iOS 13.5)
 
